@@ -1,0 +1,2 @@
+[console_scripts]
+whisperlivekit-server = whisperlivekit.basic_server:main
