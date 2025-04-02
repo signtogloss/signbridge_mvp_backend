@@ -5,7 +5,6 @@ from openai import OpenAI
 import string
 
 # 设置 deepseek API 客户端（保持其他逻辑不变）
-client = OpenAI(api_key="sk-f9273b8674694e7abb1b99684ffb9561", base_url="https://api.deepseek.com")
 
 # 假定这两个变量已经声明好：
 # token_ids: list of token IDs (integers) from OpenAI for allowed vocabulary (unused now)
